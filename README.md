@@ -18,5 +18,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/user-attachments/assets/19a33682-f5fd-4f3b-a3cd-222ceab42a1a
+
+https://github.com/user-attachments/assets/947ae7f3-c085-495e-8ac0-4808388b0e9e
 
